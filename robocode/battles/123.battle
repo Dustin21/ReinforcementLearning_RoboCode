@@ -1,0 +1,10 @@
+#Battle Properties
+#Mon Nov 14 23:01:45 PST 2016
+robocode.battle.sentryBorderSize=100
+robocode.battle.numRounds=10000
+robocode.battleField.width=800
+robocode.battle.gunCoolingRate=0.1
+robocode.battle.rules.inactivityTime=450
+robocode.battle.selectedRobots=kinz.kBot*,sample.SpinBot
+robocode.battle.hideEnemyNames=false
+robocode.battleField.height=600
